@@ -6,3 +6,8 @@ Adding some content for rebase test
 
 Some more text before the rebase
 
+## Repostory purpose
+
+Putting some changes there that will conflict with other
+changes in the github repo
+
