@@ -11,3 +11,4 @@ Some more text before the rebase
 Putting some changes there that will conflict with other
 changes in the github repo
 
+Added some changes after moving repo
